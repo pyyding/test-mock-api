@@ -3,9 +3,7 @@
     {
       "id": 1,
       "name": "OÜ Rahapump",
-      "turnover": [],
-      "revenue": [],
-      "profitToEquity": [],
+      "category": "PROGRAMMING",
       "balanceIndicator": "POSITIVE",
       "turnoverIndicator": "NEGATIVE",
       "profitIndicator": "POSITIVE",
@@ -16,6 +14,7 @@
     {
       "id": 1,
       "name": "OÜ Rahapump",
+      "category": "PROGRAMMING",
       "description": "Spend money-money, make money-money.",
       "balance": [
         {
@@ -34,7 +33,10 @@
           "date": "2020-05-29T11:06:01.451Z",
           "value": 120000
         }
-      ]
+      ],
+      "turnover": [],
+      "revenue": [],
+      "profitToEquity": []
     }
   ]
 }
