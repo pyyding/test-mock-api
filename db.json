@@ -1,34 +1,29 @@
 {
-  "users": [
+  "companies": [
     {
       "id": 1,
-      "companies": [
+      "name": "OÜ Rahapump",
+      "balance": [
         {
-          "id": 1,
-          "name": "OÜ Rahapump",
-          "balance": [
-            {
-              "date": "2020-02-29T11:06:01.451Z",
-              "value": 130000
-            },
-            {
-              "date": "2020-03-29T11:06:01.451Z",
-              "value": 139000
-            },
-            {
-              "date": "2020-04-29T11:06:01.451Z",
-              "value": 13100
-            },
-            {
-              "date": "2020-05-29T11:06:01.451Z",
-              "value": 120000
-            }
-          ],
-          "turnover": [],
-          "revenue": [],
-          "turnoverToEquity": []
+          "date": "2020-02-29T11:06:01.451Z",
+          "value": 130000
+        },
+        {
+          "date": "2020-03-29T11:06:01.451Z",
+          "value": 139000
+        },
+        {
+          "date": "2020-04-29T11:06:01.451Z",
+          "value": 13100
+        },
+        {
+          "date": "2020-05-29T11:06:01.451Z",
+          "value": 120000
         }
-      ]
+      ],
+      "turnover": [],
+      "revenue": [],
+      "turnoverToEquity": []
     }
   ]
 }
